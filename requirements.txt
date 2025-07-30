@@ -1,14 +1,6 @@
-altair
-black
-bokeh
-catboost
-dash
-dask
-geopandas
 ipykernel
 ipython
 ipywidgets
-keras
 lightgbm
 matplotlib
 nltk
@@ -16,9 +8,6 @@ numpy
 openpyxl
 pandas
 plotly
-pyarrow
-pyspark
-pytest
 scikit-learn
 scipy
 seaborn
